@@ -68,7 +68,7 @@ The objective of this project is to leverage Power BI for a deep dive into the p
 - **Metrics**: Analyzes monthly admissions, discharge rates, and treatment costs over time.
 - **Visuals**: Uses line charts and area charts to display trends.
 - **Insights**: Reveals seasonal variations in patient admissions and changes in treatment costs over time.
-![OVERVIEW DASHBOARD](./assets/Dashbaord3)
+![OVERVIEW DASHBOARD](./assets/Dashboard3)
 ## Conclusion
 This project aims to transform raw healthcare data into actionable insights through the power of Power BI. By creating an interactive and comprehensive dashboard, we can uncover critical trends and metrics that will help healthcare providers improve patient care and operational efficiency. The insights gained from this analysis will position HealthStat Solutions as a leader in healthcare analytics, driving better outcomes for patients and providers alike.
 

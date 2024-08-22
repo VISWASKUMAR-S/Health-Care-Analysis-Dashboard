@@ -2,7 +2,7 @@
 
 ## Objective
 The objective of this project is to leverage Power BI for a deep dive into the provided healthcare datasets. This task encompasses meticulous data cleaning and sophisticated data modeling, utilizing DAX for advanced analytics. The goal is to create a comprehensive, interactive dashboard in Power BI that presents a cohesive narrative of the healthcare data. This dashboard will serve as a tool to uncover and visualize important trends, such as the interplay between patient demographics and treatment outcomes, cost implications of various medical procedures, and overall hospital performance metrics. The analysis will provide invaluable insights, aiding healthcare providers in enhancing patient care and operational efficiency, and positioning HealthStat Solutions at the forefront of healthcare analytics.
-                                                              ![HOPSITAL IMAGE](./assets/f.png)
+                                                              ![HOPSITAL IMAGE](./assets/72d341eb-d0db-4712-af2e-a418e3ad673e.png)
 
 ## About the Data
 
@@ -62,13 +62,13 @@ The objective of this project is to leverage Power BI for a deep dive into the p
 - **Metrics**: Analyzes average recovery ratings, total treatment costs, and patient satisfaction scores.
 - **Visuals**: Utilizes bar charts, heat maps, and scatter plots to compare hospital performance.
 - **Insights**: Identifies hospitals with the highest recovery ratings and the most cost-effective treatments.
-![perfomance DASHBOARD](./assets/Dashboard3)
+![perfomance DASHBOARD](./assets/Dashbaord_image3.png)
 ### 3. Time Series Analysis
 - **Introduction**: Examines trends over time to understand seasonal and temporal patterns.
 - **Metrics**: Analyzes monthly admissions, discharge rates, and treatment costs over time.
 - **Visuals**: Uses line charts and area charts to display trends.
 - **Insights**: Reveals seasonal variations in patient admissions and changes in treatment costs over time.
-![OVERVIEW DASHBOARD](./assets/Dashbaord_image3.png)
+![OVERVIEW DASHBOARD](./assets/Dashbaord3)
 ## Conclusion
 This project aims to transform raw healthcare data into actionable insights through the power of Power BI. By creating an interactive and comprehensive dashboard, we can uncover critical trends and metrics that will help healthcare providers improve patient care and operational efficiency. The insights gained from this analysis will position HealthStat Solutions as a leader in healthcare analytics, driving better outcomes for patients and providers alike.
 
